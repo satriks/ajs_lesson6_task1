@@ -1,5 +1,3 @@
-
-
 export default function orderByProps(object, sort) {
   const sortObj = [];
 
@@ -21,4 +19,3 @@ export default function orderByProps(object, sort) {
 
   return sortObj;
 }
-
